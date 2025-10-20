@@ -3,6 +3,7 @@ description: This Website aims to explan and simplify groundwater Fundamentalsfo
 theme: just-the-docs
 
 url: https://navsi08.github.io/Trial008/
+baseurl: /Trial008 
 
 source: Webpages
 
