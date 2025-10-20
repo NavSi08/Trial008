@@ -1,10 +1,10 @@
 ---
 title: Home
-layout: Home
+layout: home
 nav_order: 1
 
 ---
-Welcom to GroundWater website
+Welcome to GroundWater website
 
 ----
 

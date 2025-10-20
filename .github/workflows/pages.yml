@@ -17,7 +17,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -33,7 +32,6 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll (source=Webpages)
-        # Build the site from Webpages/ and output to Webpages/_site
         run: >
           bundle exec jekyll build
           --source Webpages
