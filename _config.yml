@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GroundWater Fundamentals
+description: This Website aims to explan and simplify groundwater Fundamentalsfor beginners.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://navsi08.github.io/Trial008/
+
+source: Webpages
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View on GitHub: https://github.com/NavSi08/Trial008
+
